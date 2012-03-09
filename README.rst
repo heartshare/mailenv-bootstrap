@@ -31,7 +31,7 @@ What is installed
 
 Usage
 =====
-::
+
   sh bootstrap.sh
 
 When asked for input, you will need to provide it. But the installer only asks for a few pieces
