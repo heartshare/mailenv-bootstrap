@@ -17,17 +17,18 @@ Packages
 ========
 
 What is installed
-* Postfix
-* Dovecot (IMAP/IMAPS only)
-* SASL (for authentication against PAM)
-* SpamAssassin (for spam protection)
-* ClamAV (for anti-virus scanning of emails inbound and outbound)
-* Procmail (for local delivery and filtering)
-* DKIM (using dkim-filter)
-* DomainKeys (using dk-filter)
-* SPF
-* Razor
-* Pyzor
+
+- Postfix
+- Dovecot (IMAP/IMAPS only)
+- SASL (for authentication against PAM)
+- SpamAssassin (for spam protection)
+- ClamAV (for anti-virus scanning of emails inbound and outbound)
+- Procmail (for local delivery and filtering)
+- DKIM (using dkim-filter)
+- DomainKeys (using dk-filter)
+- SPF
+- Razor
+- Pyzor
 
 Usage
 =====
