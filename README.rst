@@ -2,10 +2,11 @@
 mailenv-bootstrap
 =================
 
-*THIS IS CURRENTLY ONLY A TEST SCRIPT*
-*IT HAS NOT BEEN TESTED*
+**THIS IS CURRENTLY ONLY A TEST SCRIPT**
 
-*DO NOT USE IT*
+**IT HAS NOT BEEN TESTED**
+
+**DO NOT USE IT**
 
 This is a single bootstrap shell file for Debian 5 and 6 and Ubuntu 10.04 - 12.04 operating
 systems.
